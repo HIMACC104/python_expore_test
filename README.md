@@ -6,10 +6,14 @@
 
 如果你沒有安裝docker compose 請執行 
 
-'''sh install_docker_compose.sh'''
+'''bash
+sh install_docker_compose.sh
+'''
 
 有docker compose後 執行  
-'''docker-compose up -d'''
+'''bash
+docker-compose up -d
+'''
 
 在8000 port會有exporter的結果(http://localhost:8000/metrics)
 
