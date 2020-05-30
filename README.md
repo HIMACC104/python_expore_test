@@ -4,13 +4,13 @@
 
 ## 如何使用
 
-如果你沒有安裝docker compose 請執行 
+如果你沒有安裝docker compose 請執行以下指令 會重新安裝docker與docker compose: 
 
 ```bash
 sh install_docker_compose.sh
 ```
 
-有docker compose後 執行  
+有docker compose後 請執行:  
 ```bash
 docker-compose up -d
 ```
