@@ -6,9 +6,9 @@
 
 如果你沒有安裝docker compose 請執行 
 
-'''bash
+```bash
 sh install_docker_compose.sh
-'''
+```
 
 有docker compose後 執行  
 '''bash
