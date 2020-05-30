@@ -11,9 +11,9 @@ sh install_docker_compose.sh
 ```
 
 有docker compose後 執行  
-'''bash
+```bash
 docker-compose up -d
-'''
+```
 
 在8000 port會有exporter的結果(http://localhost:8000/metrics)
 
